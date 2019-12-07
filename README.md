@@ -1,6 +1,6 @@
 # Laser-cut case for MiSTer FPGA project
 
-Plans for a laser-cut case for the [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki/How-to-start-with-MiSTer) FPGA project and add-on boards.
+Plans for a laser-cut case for the [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) FPGA project and add-on boards.
 
 There are many options for 3D printed cases for the MiSTer project, but I haven't been able to find any open source plans for those of us with access to a laser cutter. I designed this case to fit my specific configuration of MiSTer: 
 
