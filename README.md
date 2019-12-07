@@ -10,7 +10,7 @@ There are many options for 3D printed cases for the MiSTer project, but I haven'
 
 It should be easy to modify for other configurations.
 
-Materials Supported: any 3mm thickness material (plywood, acrylic etc.)
+Materials Supported: any 3mm thickness material (plywood, acrylic etc.). Design requires 1 x A4 sheet of material per case.
 
 Extra brass standoffs will be required in addition to those supplied with the DE-10 Nano and IO boards.
 
