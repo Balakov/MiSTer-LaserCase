@@ -2,7 +2,7 @@
 
 Plans for a laser-cut case for the [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) FPGA project and add-on boards.
 
-There are many options for 3D printed cases for the MiSTer project, but I haven't been able to find any open source plans for those of us with access to a laser cutter. I designed this case to fit my specific configuration of MiSTer: 
+There are many options for 3D printed cases for the MiSTer project, but I haven't been able to find many open source plans for those of us with access to a laser cutter. I designed this case to fit my specific configuration of MiSTer: 
 
 * DE10 Nano FPGA board
 * IO Board 5.6 XL
@@ -10,9 +10,11 @@ There are many options for 3D printed cases for the MiSTer project, but I haven'
 
 It should be easy to modify for other configurations.
 
+Materials Supported: any 3mm thickness material (plywood, acrylic etc.)
+
 Extra brass standoffs will be required in addition to those supplied with the DE-10 Nano and IO boards.
 
-Plans are supplied in Affinity Desinger, SVG and WMF format (WMF works best for my cheap 40W Chinese laser cutter).
+Plans are supplied in Affinity Desinger, SVG and WMF format (WMF works best on my cheap 40W Chinese laser cutter).
 
 ![Case Front View](/Images/MiSTer_LaserCase_Front_640.jpg)
 
